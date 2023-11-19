@@ -1,7 +1,7 @@
 # Sample Repository
 This is a sample repository, created by the PPLS Open Research Team.
 
-Also added some text here.
+Change updated remotely.
 
 ## License
 MIT
