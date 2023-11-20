@@ -5,8 +5,6 @@ This repository is meant to be a resource for PPLS staff and students to learn h
 
 Change updated remotely.
 
-TODO: Delete this using revert.
-
 ## License
 MIT
 
